@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=00FF00&center=falso&vCenter=falso&lines=🜛+CAROL+V1-0+BETA+🜛;🜛+BY+ZENOM+MODS+🜛"> 
 
-![Carol - Ícone do Bot](https://neon-apis.shop/696fa8.jpg)
+![Carol - Ícone do Bot](https://files.catbox.moe/6qkl1t.jpg)
 
 > 🤖 Uma bot de WhatsApp, leve e personalizável, criado para automatizar tarefas, responder comandos, gerenciar grupos e integrar APIs — fácil de configurar.
 
@@ -106,7 +106,7 @@ cd carol && npm start
 ## 📳 Iniciando conexão 
 **Aviso Prévio**
 ```
-Ele vai pedir o **número**, você digitar o **número** e dar enter, copia o **código** e bota em: **WhatsApp => 3 Pontinhos => Dispositivos Conectados => Conectar dispositivo.**
+Ela vai pedir o **número**, você digitar o **número** e dar enter, copia o **código** e bota em: **WhatsApp => 3 Pontinhos => Dispositivos Conectados => Conectar dispositivo.**
 ```
 
 ---
