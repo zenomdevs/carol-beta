@@ -3,8 +3,8 @@ const { fs, colors, time: oldTime, date: oldDate } = require('../configs/imports
 // --- Configurações e Constantes ---
 process.env.TZ = 'America/Sao_Paulo'; // Garante o fuso horário correto.
 
-const LOG_PREFIX = colors.cyan('[ANNA-SCHEDULER]');
-const ERROR_PREFIX = colors.red('[ANNA-SCHEDULER-ERROR]');
+const LOG_PREFIX = colors.cyan('[CAROL-SCHEDULER]');
+const ERROR_PREFIX = colors.red('[CAROL-SCHEDULER-ERROR]');
 const CACHE_DURATION_MS = 30 * 60 * 1000; // 30 minutos
 const SCHEDULE_DIR = './bunker/database/grupos/schedule';
 const CHECK_INTERVAL_MS = 60 * 1000; // 1 minuto
@@ -223,4 +223,5 @@ module.exports = {
     iniciarAgendamento: startScheduleWatcher, // Nome antigo mantido para retrocompatibilidade
     startScheduleWatcher,
     checkSchedules, // Exportado para possível chamada manual/teste
+
 };
