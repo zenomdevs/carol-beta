@@ -1,0 +1,69 @@
+[
+  {
+    "name": "Rock Forever! 🤘🏻",
+    "groupId": "120363421848989415@g.us",
+    "x9": false,
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": false,
+    "antictt": false,
+    "antiloc": false,
+    "antilinkgp": false,
+    "antilinkhard": true,
+    "antilinkeasy": false,
+    "antifake": false,
+    "antiporn": false,
+    "Odelete": false,
+    "antispam": false,
+    "antinotas": false,
+    "anticatalogo": false,
+    "visuUnica": false,
+    "registrarFIGUS": false,
+    "soadm": false,
+    "listanegra": [],
+    "advertir": [],
+    "prefixos": [
+      "/"
+    ],
+    "advertir2": [],
+    "legenda_estrangeiro": "0",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "multiprefix": false,
+    "ausentes": [],
+    "ANTI_DDD": {
+      "active": false,
+      "listaProibidos": []
+    },
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": false,
+      "quantidade": null
+    },
+    "wellcome": [
+      {
+        "bemvindo1": false,
+        "legendabv": "O membro #numerodele#, acabou de chegar ao grupo #nomedogp#! ficamos muito felizes por ter voce conosco. para garantir a melhor experiencia, pedimos que leia a descricao do grupo e se familiarize com as regras.",
+        "legendasaiu": "O membro #numerodele#, acabou de deixar o grupo #nomedogp#. agradecemos a participacao, lembramos a importancia de manter a ordem e o respeito. por isso, leia a descricao e garanta que esta seguindo as regras."
+      },
+      {
+        "bemvindo2": false,
+        "legendabv": "O membro #numerodele#, acabou de chegar ao grupo #nomedogp#! ficamos muito felizes por ter voce conosco. para garantir a melhor experiencia, pedimos que leia a descricao do grupo e se familiarize com as regras.",
+        "legendasaiu": "O membro #numerodele#, acabou de deixar o grupo #nomedogp#. agradecemos a participacao, lembramos a importancia de manter a ordem e o respeito. por isso, leia a descricao e garanta que esta seguindo as regras."
+      }
+    ],
+    "simi1": false,
+    "autosticker": false,
+    "autoresposta": false,
+    "jogos": false,
+    "level": false,
+    "bangp": false,
+    "autodown": true
+  }
+]

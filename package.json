@@ -1,0 +1,41 @@
+{
+ "dependencies": {
+    "@whiskeysockets/baileys": "^7.0.0-rc.8",
+    "fluent-ffmpeg": "^2.1.2",
+    "request": "^2.88.2",
+    "acrcloud": "^1.4.0",
+    "axios": "^1.13.2",
+    "cfonts": "^3.3.1",
+    "chalk": "^5.6.2",
+    "cheerio": "^1.1.2",
+    "colors": "^1.4.0",
+    "fake-useragent": "^1.0.1",
+    "file-type": "^21.1.1",
+    "fs-extra": "^11.3.2",
+    "linkifyjs": "^4.3.2",
+    "moment-timezone": "^0.6.0",
+    "multistream": "^4.1.0",
+    "node-cache": "^5.1.2",
+    "node-fetch": "^3.3.2",
+    "node-webpmux": "^3.2.1",
+    "pino": "^10.1.0",
+    "qrcode-terminal": "^0.12.0",
+    "scr-emoji": "^0.0.3",
+    "yt-search": "^2.13.1"
+},
+  "name": "carol-base",
+  "description": "Evoluindo a cada dia.",
+  "version": "1.0.0",
+  "notice": "New Version",
+  "update_date": "21-11-2025",
+  "main": "carol.js",
+  "scripts": {
+    "start": "node ./bunker/carol-call.js sim"
+},
+  "author": "ZenoMods",
+  "license": "MIT",
+  "bugs": {
+  "url": "https://github.com/zenomdevs"
+},
+  "homepage": "https://neon-apis.shop"
+}
