@@ -42,10 +42,10 @@ Para definir uma legenda de quando um integrante sair ou entrar em seu grupo, ve
 }
 
 exports.infoOwner = (prefix, NickDono, numerodn, NomeDoBot, sender) => {
-return `Olá @${sender.split("@")[0]}, aqui está as informações sobre meu dono:
+return `Olá @${sender.split("@")[0]}, aqui está as informações do meu mestre:
 –
-• Número do proprietário: wa.me/${numerodn}
-• Proprietário: ${NickDono}`
+• Número: wa.me/${numerodn}
+• NickName: ${NickDono}`
 }
 
 exports.configbot = (prefix) => {
