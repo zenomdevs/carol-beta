@@ -92,7 +92,7 @@ Digite `y` sempre que necessário.
 ## ⬇️ Clonando o repositório
 **3° Comando**
 ```
-cd /sdcard && git clone https://github.com/zenomdevs/carol.git carol
+cd /sdcard && git clone https://github.com/zenomdevs/carol-beta.git carol
 ```
 Espere carregar tudo.
 
